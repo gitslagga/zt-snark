@@ -1,0 +1,28 @@
+{
+  "name": "zk-snark",
+  "version": "1.0.0",
+  "description": "zero knowledge proof",
+  "main": "index.js",
+  "dependencies": {
+    "circomlib": "^0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "No test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitslagga/zt-snark.git"
+  },
+  "keywords": [
+    "zero-knowledge",
+    "circom",
+    "snarkjs"
+  ],
+  "author": "slagga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitslagga/zt-snark/issues"
+  },
+  "homepage": "https://github.com/gitslagga/zt-snark#readme"
+}
