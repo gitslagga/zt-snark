@@ -24,3 +24,9 @@
 * verify
 * snarkjs generateverifier
 * snarkjs generatecall
+
+## Reference
+* [Zero Knowledge](https://github.com/fluree/example-zero-knowledge)
+* [Circom Package](https://github.com/iden3/circom)
+* [Circom Tutorial](https://github.com/iden3/circom/blob/master/TUTORIAL.md)
+* [Circomlib Package](https://github.com/iden3/circomlib)
