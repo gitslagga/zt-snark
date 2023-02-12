@@ -4,7 +4,7 @@
   "description": "zero knowledge proof",
   "main": "index.js",
   "dependencies": {
-    "circomlib": "^0.2.3"
+    "circomlib": "^0.2.4"
   },
   "devDependencies": {},
   "scripts": {
